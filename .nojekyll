@@ -1,0 +1,2 @@
+# Impede o GitHub Pages de processar o site com Jekyll.
+# Necessário para servir ficheiros e pastas tal como estão (ex.: nomes com "_").
